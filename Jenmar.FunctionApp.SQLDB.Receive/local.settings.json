@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "69374278-a5e8-46eb-87f2-c6d115c50e5e",
+    "SqlConnectionString": "Data Source=smig.database.windows.net;Initial Catalog=EasyRX_Database;Persist Security Info=True;User ID=smig;Password=!@#aadrik0291",
+    "Username": "abhansali@smileinnovationsgroup.com",
+    "Password": "!@#aadrik0291",
+    "CrmUrl": "https://smileinnovationsgrouptest.crm3.dynamics.com",
+    "ClientSecretId": "k2C8Q~hRCuwEj8PAZC~-jtOiEhGa5vjyaOcadbkC",
+    "ClientAppId": "63278c1a-7f19-4ea8-a211-e4890194029b",
+    "authority": "https://login.microsoftonline.com/3f2e6234-1387-42cc-a478-9a71f41a6060",
+    "apiUrl": "https://smileinnovationsgrouptest.api.crm3.dynamics.com/api/data/v9.2/",
+    "ScheduleTriggerTime": "0 */2 * * * *", //"0 */2 * * * *  // 0 0 10 * * *,
+    "DaysToAddOrSub": "-2"
+  }
+}
